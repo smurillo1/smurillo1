@@ -1,6 +1,6 @@
 ### Olá! Eu sou Sávio Murillo 👋
 
-- 🔭 Atualmente trabalho como estagiário na Energisa PB
+- 🔭 Atualmente trabalho como Analista de Suporte Técnico na Energy Brasil - Empresa de energia solar
 - 🌱 Estudando Engenharia Elétrica e Ciência de Dados
 
 <div align="center">
