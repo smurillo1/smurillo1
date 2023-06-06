@@ -1,7 +1,7 @@
 ### Olá! Eu sou Sávio Murillo 👋
 
-- 🔭 Atualmente trabalho como Analista de Suporte Técnico na Energy Brasil - Empresa de energia solar
-- 🌱 Estudando Engenharia Elétrica e Ciência de Dados
+- 🔭 Atualmente trabalho como Gerente de operações na Energy Brasil - Empresa de energia solar
+- 🌱 Estudando Ciência de Dados e Engenharia Elétrica 
 
 <div align="center">
   <a href="https://github.com/smurillo1">
