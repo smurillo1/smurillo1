@@ -3,8 +3,7 @@
 - 🔭 Atualmente trabalho como Gerente de operações na Energy Brasil - Empresa de energia solar
 - 🌱 Cientista de Dados e Engenheiro eletricista em formação
 
-“Em Deus, nós confiamos. Todos os outros tragam dados”
-- W. Edwards Deming
+“Em Deus, nós confiamos. Todos os outros tragam dados” - W. Edwards Deming
 
 <div align="center">
   <a href="https://github.com/smurillo1">
