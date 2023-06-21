@@ -1,7 +1,10 @@
 ### Olá! Eu sou Sávio Murillo 👋
 
 - 🔭 Atualmente trabalho como Gerente de operações na Energy Brasil - Empresa de energia solar
-- 🌱 Estudando Ciência de Dados e Engenharia Elétrica 
+- 🌱 Cientista de Dados e Engenheiro eletricista em formação
+
+“Em Deus, nós confiamos. Todos os outros tragam dados”
+- W. Edwards Deming
 
 <div align="center">
   <a href="https://github.com/smurillo1">
