@@ -1,6 +1,6 @@
 ### Olá! Eu sou Sávio Murillo 👋
 
-- 🔭 Atualmente trabalho como Gerente de operações na Energy Brasil - Empresa de energia solar
+- 🔭 Atualmente trabalho como Analista de operações na Energy Brasil - Empresa de energia solar
 - 🌱 Cientista de Dados e Engenheiro eletricista em formação
 
 “Em Deus, nós confiamos. Todos os outros tragam dados” - W. Edwards Deming
