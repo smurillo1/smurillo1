@@ -1,6 +1,6 @@
 # Olá! Eu sou Sávio Murillo 👋
 
-- 🔭 Cientista de Dados | Analista de Dados | Engenheiro Eletricista
+🔭 Cientista de Dados | Analista de Dados | Engenheiro Eletricista
 
 Como Cientista de Dados, meu principal foco é utilizar Python, Machine Learning, SQL e Power BI. Possuo habilidades em manipulação, limpeza e tratamento de dados, bem como na construção de modelos de machine learning e na criação de relatórios de visualização utilizando o Power BI. Tenho uma ampla experiência em projetos de Análise e Ciência de Dados para empresas, destacando-se a clusterização de clientes e a construção de um sistema de recomendação.
 
