@@ -2,7 +2,7 @@
 
 🔭 Cientista de Dados | Analista de Dados | Engenheiro Eletricista
 
-Cientista de dados e graduando em Engenharia Elétrica pelo IFPB, meu foco é trabalhar em busca de soluções de negócio voltadas à dados. Tenho habilidades em manipulação, limpeza e tratamento de dados, assim como o desenvolvimento de modelos com machine learning.
+Cientista de dados e Engenheiro Eletricista pelo IFPB, meu foco é trabalhar em busca de soluções de negócio voltadas à dados. Tenho habilidades em manipulação, limpeza e tratamento de dados, assim como o desenvolvimento de modelos com machine learning.
 
 
 <div align="center">
