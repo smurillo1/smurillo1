@@ -1,8 +1,8 @@
 # Olá! Eu sou Sávio Murillo 👋
 
-🔭 Cientista de Dados | Analista de Dados | Engenheiro Eletricista
+🔭  Analista de Dados na Adecco | Vale
 
-Cientista de dados e Engenheiro Eletricista pelo IFPB, meu foco é trabalhar em busca de soluções de negócio voltadas à dados. Tenho habilidades em manipulação, limpeza e tratamento de dados, assim como o desenvolvimento de modelos com machine learning.
+Atualmente atuo como Analista de dados no Mecanismo de Escuta e Resposta da Vale, com foco na melhoria da reputação da empresa frente às comunidades atingidas em Brumadinho.
 
 
 <div align="center">
